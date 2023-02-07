@@ -1,0 +1,14 @@
+.hide {
+  display: none;
+}
+
+.pwd-msg {
+  display: none;
+  font-size: 12px;
+  font-style: italic;
+  color: red;
+}
+
+#adm-code {
+  text-transform: uppercase;
+}
